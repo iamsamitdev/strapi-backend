@@ -1,0 +1,2 @@
+Email: demo@strapi.com
+Pass: Strapi1234
